@@ -1,3 +1,8 @@
+-- CREATE DATABASE farm;
+
+
+USE farm;
+
 -- User table
 CREATE TABLE User (
     user_id INT PRIMARY KEY,
